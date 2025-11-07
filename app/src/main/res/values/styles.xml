@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.Rectlist" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorEven</item>
+        <item name="colorSecondary">@color/colorOdd</item>
+    </style>
+
+</resources>
